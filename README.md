@@ -93,23 +93,23 @@
 
 #### [`2020 KAKAO BLIND RECRUITMENT`](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
-- [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) `이현석` `장해웅`
-- [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) `김윤수` `윤소윤` `이상아` `이현석` `장해웅`
-- [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) `윤소운` `이현석` `장해웅`
-- [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) **`정확도`** `김윤수` `이상아` / **`효율성`** `윤소윤` `장해웅`
-- [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) **`효율성`** `이현석` `윤소윤`
+- **KAKAO** [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) `이현석` `장해웅`
+- **KAKAO** [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) `김윤수` `윤소윤` `이상아` `이현석` `장해웅`
+- **KAKAO** [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) `윤소운` `이현석` `장해웅`
+- **KAKAO** [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) **`정확도`** `김윤수` `이상아` / **`효율성`** `윤소윤` `장해웅`
+- **KAKAO** [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) **`효율성`** `이현석` `윤소윤`
 
 #### BOJ `트라이`
 
-- [전화번호 목록](https://www.acmicpc.net/problem/5052) `김윤수` `이현석` `장해웅`
-- [완전 이진 트리](https://www.acmicpc.net/problem/9934) `김윤수` `이현석`
-- [휴대폰 자판](https://www.acmicpc.net/problem/5670) `김윤수` `이현석`
-- [생태학](https://www.acmicpc.net/problem/4358) `김윤수` `이현석`
+- **BOJ** [전화번호 목록](https://www.acmicpc.net/problem/5052) `김윤수` `이현석` `장해웅`
+- **BOJ** [완전 이진 트리](https://www.acmicpc.net/problem/9934) `김윤수` `이현석`
+- **BOJ** [휴대폰 자판](https://www.acmicpc.net/problem/5670) `김윤수` `이현석`
+- **BOJ** [생태학](https://www.acmicpc.net/problem/4358) `김윤수` `이현석`
 
 ### 11주차 `트라이` `다익스트라` `플로이드-와샬` [풀이](./solution/week11)
 
-- [개미굴](https://www.acmicpc.net/problem/14725) `김윤수`
-- [문자열 집합 판별](https://www.acmicpc.net/problem/9250)
-- [플로이드](https://www.acmicpc.net/problem/11404) `김윤수` `이현석` `장해웅`
-- [미확인 도착지](https://www.acmicpc.net/problem/9370) `김윤수` `이현석`
-- [최단경로](https://www.acmicpc.net/problem/1753) `김윤수` `이현석` `장해웅`
+- **BOJ** [개미굴](https://www.acmicpc.net/problem/14725) `김윤수`
+- **BOJ** [문자열 집합 판별](https://www.acmicpc.net/problem/9250)
+- **BOJ** [플로이드](https://www.acmicpc.net/problem/11404) `김윤수` `이현석` `장해웅`
+- **BOJ** [미확인 도착지](https://www.acmicpc.net/problem/9370) `김윤수` `이현석`
+- **BOJ** [최단경로](https://www.acmicpc.net/problem/1753) `김윤수` `이현석` `장해웅`
